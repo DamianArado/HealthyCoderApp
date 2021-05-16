@@ -1,2 +1,2 @@
 # HealthyCoderApp
-JUnit5 testing implemented. ✅
+JUnit5 tests implementation. ✅
